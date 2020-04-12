@@ -458,6 +458,6 @@ Function.prototype.myBind = function (context) {
 
 笔记参考了
 
-[https://github.com/mqyqingfeng/Blog/issues/12]: 
-[https://juejin.im/post/5c564e3bf265da2d943f3af3]: 
+[]: https://github.com/mqyqingfeng/Blog/issues/12
+[]: https://juejin.im/post/5c564e3bf265da2d943f3af3
 
